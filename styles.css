@@ -1,0 +1,171 @@
+*{
+    background: #060507;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+}
+header{
+    display: flex;
+    flex-direction: row;
+}
+.headerclass{
+    display: flex;
+    flex-direction: row;
+}
+.montblanc{
+    padding-top: 55px;
+    padding-left: 64px;
+}
+.Hostalo{
+    padding-top: 79px;
+    padding-left: 128px;
+}
+.HostaloChild{
+    padding-right: 60px;
+    cursor: pointer;
+}
+.motor{
+    position: absolute;
+    left: 0px;
+    top: 266px;   
+    z-index: -10;
+    margin-top: -5%; 
+}
+.kolo{
+    left: 1000px;
+    top: 323px;
+    z-index: -3;
+}
+.mtnblack{
+    position: absolute;
+    left: 850px;
+    top: 210px;
+    background-color: #050506;
+}
+.mainara{
+    display: flex;
+    flex-direction: row;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    height: 700px;
+    width: 1032px;
+    padding-left: 0px;
+    padding-top: 60px;
+}
+.goldSlika{
+    position: relative;
+    padding-left: 35px;
+}
+.vecamainara{
+    display: flex;
+    flex-direction: row;
+}
+.desnocudomainDiv{
+    padding-left: 41px;
+    margin-top: -15%;
+}
+.desnotext{
+    position: absolute;
+    left: 1400px;
+    top: 400px;
+    padding-top: 50px;
+    z-index: 11;
+}
+.desnoCudoDiv{
+    display: flex;
+    flex-direction: column;
+    padding-left: 40px;
+    right: 0;
+}
+
+.doleDiv{
+    display: flex;
+    flex-direction: row;
+    background: none;
+}
+.kinezi{
+    position: absolute;
+    display: flex;
+    top: 750px;
+    background: none;
+    z-index: 10;
+}
+.kineskoSlovo{
+    background: none;
+}
+.pokret{
+    display: flex;
+    flex-direction: row;
+}
+.dvojka{
+    position: absolute;
+    width: 72px;
+    height: 40px;
+    left: 50px;
+    top: 1000px;
+    font-family: Druk Wide;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 183%;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+.linijaN{
+    position: absolute;
+    width: 140px;
+    height: 2px;
+    left: 150px;
+    top: 1020px;
+    background: #A75B12;
+    z-index: 7;
+}
+.linijaW{
+    position: absolute;
+    width: 140px;
+    height: 2px;
+    left: 230px;
+    top: 1020px;
+    background: #ffffff;
+    z-index: 6;
+}
+.desetka{
+    position: absolute;
+    width: 72px;
+    height: 40px;
+    left: 400px;
+    top: 1000px;
+    font-family: Druk Wide;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 183%;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+.textNeki{
+    position: absolute;
+    width: 406px;
+    height: 92px;
+    left: 535px;
+    top: 987px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 200%;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+.zadnjekolo{
+    position: absolute;
+    left: 1117px;
+    top: 867px;
+    z-index: 9;
+}
